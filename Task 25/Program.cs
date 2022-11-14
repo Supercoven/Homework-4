@@ -17,7 +17,7 @@ void Degree()
     {
         deg = A * deg;
     }
-Console.WriteLine((deg));
+Console.WriteLine($"Число А, возведённое в степень B равняется {deg}");
 }
 
 Degree();
